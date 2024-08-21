@@ -1,0 +1,43 @@
+.cal {
+  height: auto;
+  width: 23vw;
+  position: relative;
+  top: 100px;
+  padding: 3px;
+  margin: 3px;
+  background-color: rgb(78, 69, 69);
+}
+
+.screen {
+  width: 90%;
+  height: 100px;
+  background-color:black;
+  color: white;
+  margin-top: 5px;
+}
+
+.ans {
+  width: inherit;
+  height: 40%;
+  border-top: 1px solid white;
+  color: white;
+}
+
+.eq {
+  width: inherit;
+  height: 40%;
+  color: white;
+}
+
+.keypad {
+  width: 90%;
+  height: 80%;
+  margin-top: 5px;
+}
+
+.keys {
+  height:50px;
+  width: 60px;
+  background-color: #D6D6D6;
+
+}
